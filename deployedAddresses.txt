@@ -3,6 +3,6 @@ Deployed on Rinkeby testnet
 Admin.sol -> 0xD88369c00bd50c9e6c69171432a7c3a2303c08d9
 nft.sol -> 0x90B56dD6e50d5329b7fAbd976e18dC3B1b9DdC3A
 
-Gold membership - https://ipfs.io/ipfs/QmZbkXFERE7kS7LX1KHv1Kkgv8ncKYJ53tsicCkSJEkh7x
-silver membership - https://ipfs.io/ipfs/QmXGvVwaozTGqZBdpCpkXKQTANdS7my5ve7fwCfuMsPSf
-bronze membership - https://ipfs.io/ipfs/QmSJp4DpKcxNMqdHcXWHtcd7vySd7usyHsisNm47oE1AWq
+Gold membership - https://ipfs.io/ipfs/QmT1DunTGXxau8eSMFRmhu7gsB6XkGGernciPBJwUpijJB
+silver membership - https://ipfs.io/ipfs/QmcK4pGhiBrgb9NYgP1DeTTHAKA4PCeHku7Lsu8qKSajMT
+bronze membership - https://ipfs.io/ipfs/QmdDovQ85HNwHtWhbtFK9M8L8Cbwr65Dz7yAktduUuVHqu
